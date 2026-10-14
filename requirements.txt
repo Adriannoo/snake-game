@@ -1,0 +1,3 @@
+# Ambiente validado: Python 3.12 de 64 bits.
+--only-binary=pygame
+pygame==2.6.1
